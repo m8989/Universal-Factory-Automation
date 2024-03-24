@@ -1,4 +1,13 @@
-                    GNU GENERAL PUBLIC LICENSE
+# Special Licensing Notice (授权特别提示)
+
+This project utilizes AGPLv3 (see the full text below) as its foundational open-source license and operates under a dual licensing strategy.
+For non-commercial use, please strictly adhere to AGPLv3 terms. 
+For commercial purposes, please refer to the project README.md file or contact us for information regarding commercial licensing arrangements.
+
+本项目并实行双许可证策略。对于非商业用途，请严格遵循AGPLv3；对于商业用途，请参阅项目README.md文件联系我们获取商业授权信息。
+
+
+                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
